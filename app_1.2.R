@@ -1,4 +1,4 @@
-# app.R — version 1.2
+# SPDX-License-Identifier: GPL-2.0-or-later
 
 # Load required libraries
 library(shiny)
