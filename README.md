@@ -27,7 +27,7 @@ This Shiny app performs HCPC (hierarchical clustering on principal components) a
 
 2. **Start the app in R**
     ```bash
-    shiny::runApp("app.R")
+    shiny::runApp("app_1.2.R")
 
 3. **Prepare your input Excel file**
 Your spreadsheet must have three distinct sections, in this order:
