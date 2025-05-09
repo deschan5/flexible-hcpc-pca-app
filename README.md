@@ -1,3 +1,5 @@
+SPDX-License-Identifier: GPL-2.0-or-later
+
 # Flexible HCPC & PCA Biplot Analysis
 
 This Shiny app performs HCPC (hierarchical clustering on principal components) and PCA biplot analysis on uploaded Excel data.
